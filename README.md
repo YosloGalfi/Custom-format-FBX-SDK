@@ -13,3 +13,9 @@ The custom format includes the following:
 4. Cameras
 5. Lights
 6. Morph animations (Not tested)
+
+OBSERVE!!
+I could not push the code to github, since the lib files for the FBX SDK were to big, and I havent had the time to fix it..
+If you want the code, please contact me instead.
+
+fredrikgalfi@gmail.com
